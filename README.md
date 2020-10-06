@@ -26,6 +26,7 @@ top | number | - | 100 | 侧边栏距离浏览器顶部的位置
 position | string | left/right | right |侧边栏的位置
 topButton | boolean | true/false | true | 是否显示返回顶部按钮
 
+
 <br/>
 
 ### better-sidebar-item 组件介绍
