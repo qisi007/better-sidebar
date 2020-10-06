@@ -67,3 +67,12 @@ link | string | - | - | 点击跳转到新的页面地址
 </template>
 
 ```
+<br/>
+
+### 开源协议
+[MIT License](https://github.com/qisi007/better-sidebar/blob/main/LICENSE)
+
+<br/>
+
+### github地址
+[地址](https://github.com/qisi007/better-sidebar)
