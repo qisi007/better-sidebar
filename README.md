@@ -32,7 +32,7 @@ topButton | boolean | true/false | true | 是否显示返回顶部按钮
 
 属性 | 类型 | 可选值 | 默认值 | 描述
 -- | -- | -- | -- | --
-icon | string | - | - | 图标字体(该组件不提供,需要引入项目中)
+icon | string | - | - | 图标字体(该依赖不提供,需要自行下载,引入项目中)
 title | string | - | - | 文字
 popver | boolean | true/false | false | 是否显示弹出层
 link | string | - | - | 点击跳转到新的页面地址
