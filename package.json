@@ -1,0 +1,33 @@
+{
+  "name": "better-sidebar",
+  "version": "0.5.0",
+  "keywords": "better-sidebar, sidebar, vue",
+  "description": "可能是最好用的侧边栏工具",
+  "main": "dist/lib/better-sidebar.common.js",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lib": "vue-cli-service build --target lib --name better-sidebar --dest dist/lib src/index.ts",
+    "org": "npm config set registry https://registry.npmjs.org/"
+  },
+  "dependencies": {
+    "vue": "^2.6.11",
+    "vue-class-component": "^7.2.6",
+    "vue-property-decorator": "^9.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-typescript": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^10.0.2",
+    "typescript": "~3.9.3",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 11",
+    "Android >= 4.0",
+    "iOS >= 8"
+  ]
+}
