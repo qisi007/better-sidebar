@@ -1,5 +1,12 @@
 # better-sidebar(侧边栏工具)
 
+<br/>
+
+## 文档
+[地址](https://github.com/qisi007/better-sidebar)
+
+## 使用方法
+
 ### 下载依赖
 
 ```
@@ -70,10 +77,7 @@ link | string | - | - | 点击跳转到新的页面地址
 ```
 <br/>
 
-### 开源协议
+## 开源协议
 [MIT License](https://github.com/qisi007/better-sidebar/blob/main/LICENSE)
 
-<br/>
 
-### github地址
-[地址](https://github.com/qisi007/better-sidebar)
